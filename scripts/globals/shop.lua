@@ -122,6 +122,14 @@ tpz.shop =
             4128, 4832, -- Ether
             4150, 2595, -- Eye Drops
             4112,  910, -- Potion
+            4096, 150, -- Fire Crystal
+            4097, 150, -- Ice Crystal
+            4098, 150, -- Wind Crystal
+            4099, 150, -- Earth Crystal
+            4100, 150, -- Lightning Crystal
+            4101, 150, -- Water Crystal
+            4102, 150, -- Light Crystal
+            4103, 150, -- Dark Crystal
         }
         tpz.shop.general(player, stock)
     end,
